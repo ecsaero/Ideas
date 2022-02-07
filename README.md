@@ -1,2 +1,2 @@
 # Ideas
-Ideas
+Project Ideas
